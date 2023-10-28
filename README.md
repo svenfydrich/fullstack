@@ -6,8 +6,6 @@ Welcome to my Full Stack Development Progress Repository! This repository is ded
 - [Features](#features)
 - [Progress Tracking](#progress-tracking)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -21,30 +19,6 @@ I use this repository to document my learning journey, development projects, and
 - Code snippets and sample projects
 - Documentation and notes
 - Learning resources and links
-
-## Getting Started
-
-If you're interested in exploring my full stack development progress, follow these steps:
-
-1. Browse the repository to discover projects and resources.
-2. Feel free to explore the code, read documentation, and check out any sample projects.
-3. If you'd like to contribute or have suggestions, please refer to the [Contributing](#contributing) section.
-
-## Contributing
-
-I welcome contributions and suggestions. If you'd like to contribute to my full stack development progress, here's how:
-
-- Fork the repository.
-- Create a branch for your work.
-- Make your contributions or improvements.
-- Submit a pull request.
-- I'll review and merge your changes if they align with the project's goals.
-
-Please make sure to follow our [Code of Conduct](CODE_OF_CONDUCT.md) while contributing.
-
-## License
-
-This project is open source and available under the [License Name] License. You can find the full text of the license in the [LICENSE](LICENSE) file.
 
 ---
 
