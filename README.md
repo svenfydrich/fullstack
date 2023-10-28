@@ -5,7 +5,6 @@ Welcome to my Full Stack Development Progress Repository! This repository is ded
 ## Table of Contents
 - [Features](#features)
 - [Progress Tracking](#progress-tracking)
-- [Getting Started](#getting-started)
 
 ## Features
 
