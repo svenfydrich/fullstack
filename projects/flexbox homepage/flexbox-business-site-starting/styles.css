@@ -1,0 +1,119 @@
+body, html {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    height: 100%;
+    background-color: black;
+  }
+
+* {
+    box-sizing: border-box;
+}
+
+.navbar {
+    overflow: hidden;
+    text-align: center;
+    padding: 10px 40px;
+    margin-top: -700px;;
+    z-index: 3;
+    position: fixed;
+    font-size: 1.3rem;
+    width: 100%;
+
+}
+
+.navbar ul {
+    display: inline-flex;
+    letter-spacing: 0.2rem;
+    padding: 15px 50px;
+    list-style: none;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+}
+
+.navbar li a{
+    color: white;
+    
+    font-weight: bold;
+    padding: 10px 30px;
+    margin: 10px 30px;
+    border-radius: 6px;
+}
+
+.navbar li a:hover{
+    color: seagreen;
+}
+
+.background-image {
+    background-image: url("https://image.urlaubspiraten.de/1280/image/upload/v1603288605/mediavault_images/xflobgg4xxgecvg871h2.jpg");
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+  z-index: -1;
+
+}
+
+
+h1 {
+    color: whitesmoke;
+    font-size: 3rem;
+    position: relative;
+    margin: auto;
+    margin-top: -600px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    position: relative;
+    text-align: center;
+    margin: auto;
+}
+
+#t1 {
+    color: white;
+    font-size: 1.2rem;
+}
+
+button {
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    width: 150px;
+    height: 50px;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+button a {
+    color: white;
+}
+
+a:hover {
+    color: whitesmoke;
+}
+
+#cwspace {
+   width: 400px;
+   height: 400px;
+   display:block;
+   align-items: center;
+   justify-content: center;
+   margin: auto;
+   padding-top: 20px;
+}
+
