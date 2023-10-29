@@ -16,12 +16,14 @@ body{
     rgba(74, 83, 62, 1),
     rgba(98, 142, 33, 1));
     justify-content: center;
+    border-radius: 12px;
 }
 
 .footer {
     grid-area: footer;
     background: white;
     height: 120px;
+    border-radius: 12px;
 }
 
 .container {
